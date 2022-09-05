@@ -1,1 +1,2 @@
-# -react-front-end
+# react-front-end
+### Testing the components
